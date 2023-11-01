@@ -1,1 +1,1 @@
-# asp-pripremne
+# Algoritmi i strukture podataka - pripremne zadace
