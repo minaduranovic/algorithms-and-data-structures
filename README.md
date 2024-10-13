@@ -1,1 +1,1 @@
-# Algoritmi i strukture podataka - pripremne zadace
+# Algoritmi i strukture podataka 
